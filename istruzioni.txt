@@ -1,5 +1,5 @@
 Modulo avventura versione ITALIANA dell'avventura BLOAT da utilizzare su Foundry VTT
 utilizza questo link per installare il contenuto direttamente in Foundry 
 
---> https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-ita-ver/releases/download/1.0.1/world.json
+--> https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-ita-ver/releases/download/1.0.2/world.json
 
