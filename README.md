@@ -1,6 +1,6 @@
 # bloat-a-mork-borg-short-adventure-ita-ver
  Modulo avventura versione ITALIANA dell'avventura BLOAT da utilizzare su Foundry VTT
- <br>
+ <br> utilizza questo link per installare il contenuto direttamente in Foundry --> https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-ita-ver/releases/download/1.0.1/world.json <br>
  Bloat è un'avventura per Mork Borg creata da Johan Nohr e Greg Saunders
  <br>
  tutti i diritti sono dei rispettivi autori
